@@ -60,3 +60,4 @@ wandb/
 .Trashes
 ehthumbs.db
 Thumbs.db
+.python-version
