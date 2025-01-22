@@ -25,7 +25,8 @@ def verify_imports():
         'pytest',
         'black',
         'isort',
-        'flake8'
+        'flake8',
+        'SoccerNet'
     ]
 
     print("Python version:", sys.version)
