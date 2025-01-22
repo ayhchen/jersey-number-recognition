@@ -50,6 +50,7 @@ jersey-number-recognition/
 │   │   └── __init__.py
 │   └── test_utils/          # Utility tests
 │       └── __init__.py
+├── documentation/            # Progress Journal, Meeting Logs/Notes and Other Project Documentations
 ├── requirements.txt          # Project dependencies
 ├── verify_setup.py          # Installation verification script
 └── README.md                # Project documentation
