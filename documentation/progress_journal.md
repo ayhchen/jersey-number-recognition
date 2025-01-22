@@ -15,7 +15,8 @@
   - Review the following papers:
     - [A General Framework for Jersey Number Recognition in Sports Video](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf)
     - [Jersey Number Recognition using Keyframe Identification from Low-Resolution Broadcast Videos](https://arxiv.org/pdf/2309.06285v1)
-  - Create notes of your key findings, to discuss in our next meeting
+  - Take notes on your own understanding of each section's architecture, to discuss in our next meeting.
+    - Note any possible improvements to each section
     - Each team member should have a good understanding of the foundations of these papers, so that we can share with each other and plan how we will reproduce the results
 
 - **In next week's meeting**, we should:
