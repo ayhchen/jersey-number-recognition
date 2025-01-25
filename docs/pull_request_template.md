@@ -28,6 +28,3 @@ Closes #
 - [ ] Checkpoints are saved properly
 - [ ] Model versioning updated
 - [ ] Tests added for new features 
-
-## 📄 Additional Notes  
-<!-- Optional: Include screenshots, graphs, or additional context to help reviewers. -->
