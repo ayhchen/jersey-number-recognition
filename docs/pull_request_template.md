@@ -1,16 +1,6 @@
 ## 📌 Description
 <!-- Briefly describe the purpose of this PR and what changes it introduces. -->
 
-## 🔍 Changes 
-- **Model/Code Changes**:  
-  <!-- Describe modifications to the model architecture, training pipeline, or scripts. -->
-  
-- **Dataset Changes**:  
-  <!-- Highlight any updates to the dataset (e.g., preprocessing, new data added). -->
-  
-- **Results**:  
-  <!-- Summarize key metrics or performance improvements. -->
-
 ## 🔗 Related Issues  
 <!-- Link to any related issues or tasks (e.g., Closes #123). -->
 Closes #
