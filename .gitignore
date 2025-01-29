@@ -39,8 +39,8 @@ venv/
 ENV/
 
 # Data
-data/raw/*
-data/processed/*
+*/data/raw/*
+*/data/processed/*
 *.h5
 *.pkl
 *.pth
