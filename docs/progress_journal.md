@@ -25,25 +25,26 @@
   - Create a plan and action items in a GitHub Project for the following 4 weeks, where we can continue to track to-do's
   - Plan how we will reproduce the paper results
 
-### Meeting 1 - January 28th
+### Meeting 2 - January 28th
 
-- **We gone through the following items/key points:**
+#### Key Points Discussed:
+- Analyzed interpretations of the two suggested papers, identifying key models and tools used in their pipelines.
+- Proposed potential improvements to the pipelines, including:
+  - Integrating **DynoV2** and **Clip4Str**.
+  - Expanding the dataset to increase domain coverage (considering manual data collection and license plate datasets).
+  - Modifying the **ResNet-based legibility classifier** by increasing the number of layers.
+  - Exploring different **ViT models**.
+  - Experimenting with flipping jersey numbers for data augmentation.
 
-  - Interpretations of the two suggested papers and identified important model/tools used in their pipelines.
-  - Improvements of steps in the pipelines were suggested (DynoV2, Clip4Str, collect more data (to increase domain) - possible approaches considered: manual collection/license plate), changing ResNet (leligility classifier) struture - increase number of layers, flipping numbers for legibility improvements, different Vit models
+#### Tasks for Next Week:
+- Clone and set up the repository from *A General Framework for Jersey Number Recognition in Sports Video*.
+- Run and replicate the provided model.
+- Explore and analyze the code to understand its structure and functionality.
 
--  **For next week**, each team member must:
+#### Agenda for Next Meeting:
+- Continue discussions on potential improvements.
+- Share insights and challenges encountered while running the model locally.
 
-  - Clone and setup repo provided in the _A General Framework for Jersey Number Recognition in Sports Video_
-  - Run and replicate the author's model
-  - Play and understand as much of the the code as possible
-
-- **In next week's meeting**, we should:
-
-  - Continue discussion on possible improvements
-  - Share findings we have upon running codes on our machine
-
-- **Questions to ask the professor/TA:**
-
-  - If using data collectly externally to fine-tune the model is allowed.
-  - How much importance should we place on efficiency for improvement score. 
+#### Questions for the Professor/TA:
+- Is it permissible to use externally collected data to fine-tune the model?
+- How significant is efficiency in evaluating the improvement score?
