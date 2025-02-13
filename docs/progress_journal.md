@@ -48,3 +48,19 @@
 #### Questions for the Professor/TA:
 - Is it permissible to use externally collected data to fine-tune the model?
 - How significant is efficiency in evaluating the improvement score?
+
+### Meeting 3 - February 5th
+
+#### Key Points Discussed:
+- Encountered challenges in setting up the repository on local machines; extended the setup deadline by half a week.
+
+#### Tasks for Next Week:
+- Complete the setup by February 9.
+- Review the codebase to gain a deeper understanding of the pipeline.
+
+#### Agenda for Next Meeting:
+- Share insights about the pipeline.
+- Begin discussions on potential concrete improvements.
+
+#### Questions for the Professor/TA:
+- None
