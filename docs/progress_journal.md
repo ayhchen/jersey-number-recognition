@@ -64,3 +64,29 @@
 
 #### Questions for the Professor/TA:
 - None
+
+### Meeting 4 - February 12th, 2025
+
+#### Key Points Discussed:
+- Riley successfully executed the pipeline available at https://github.com/mkoshkina/jersey-number-pipeline, with the test phase taking over 5 hours and the training phase over 1 hour. Given these durations, we aim to meticulously plan and evaluate options before modifying the code, as time is a critical factor.
+
+- Team members are reviewing additional research papers and have proposed several potential enhancements, including:
+
+  - Implementing ensemble methods.
+  - Training with an expanded dataset featuring fonts specific to soccer jerseys and employing data augmentation techniques (e.g., image distortion and combination).
+  - Replacing ResNet34 with a more advanced model, such as ResNet101, for the legibility classifier.
+  - The suggestion to allocate tasks based on pipeline components was discussed and may be adopted once all members have a clearer understanding of potential improvements.
+
+Aiden proposed enhancing the legibility classifier to filter out more images earlier in the pipeline, thereby reducing resource consumption.
+
+#### Tasks for Next Week:
+- Continue researching and reviewing relevant papers.
+- Propose new improvements or refine existing ones.
+
+#### Agenda for Next Meeting:
+- Discuss proposed improvements.
+- Potentially assign tasks based on the discussed improvements.
+
+#### Questions for the Professor/TA:
+- What specific elements are expected in the Progress Journal?
+- Could you clarify the requirement "Replicated results of current pipelines and state of the art" for the Project Proposal deliverables?
